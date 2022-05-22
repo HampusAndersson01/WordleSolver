@@ -1,0 +1,2 @@
+# WordleSolver
+Hobby project
